@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#body {
+    background-color: #CCC;
+}
+
+header{
+    text-align: center;
+}
+
+footer{
+    margin-top: 3vh;
+}
+
+h2{
+  padding: 1vh 0vw;
+  margin-top: 7vh;
+}
+ul{
+  margin-left: 0.5em;
+}
+li{
+  list-style: inside;
+}
+
+footer{
+  margin-bottom: 2vh;
+  padding-left: 2vw;
+  padding-bottom: 2vw;
+  background-color: #AAA;
+}
+
+#titreFooter{
+    padding: 1vmax;
+}
